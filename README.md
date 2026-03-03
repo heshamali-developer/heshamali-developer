@@ -75,12 +75,6 @@ Created REST API endpoints and connected WordPress backend with React frontend.
 
 ---
 
-## 📈 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=heshamali-developer&show_icons=true&hide_border=true&theme=tokyonight)
-
----
-
 ## 🤝 Contact
 
 📧 Email: [hesham.ali@moraqmen.com](mailto:hesham.ali@moraqmen.com)
