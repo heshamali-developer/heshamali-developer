@@ -77,7 +77,7 @@ Created REST API endpoints and connected WordPress backend with React frontend.
 
 ## 📈 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME\&show_icons=true\&hide_border=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=heshamali-developer\&show_icons=true\&hide_border=true)
 
 ---
 
